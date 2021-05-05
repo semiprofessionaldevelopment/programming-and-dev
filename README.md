@@ -1,2 +1,2 @@
 # programming-and-dev
-This repository uses issues to track progress on new and existing learning goals.
+This repository uses issues to track progress on new and existing goals toward learning about programming and software development.
